@@ -2,7 +2,8 @@
 /*
 
 Switch is a control statement in C language used to execute one block of code from multiple options based on the value of a variable or expression.
-It is an alternative to using multiple if-else statements
+It is an alternative to using multiple if-else statements 
+Example
 
   */
 

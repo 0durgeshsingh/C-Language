@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Prints Days
+
 int main() {
     int day;
 

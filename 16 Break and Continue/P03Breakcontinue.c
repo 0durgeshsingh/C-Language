@@ -26,6 +26,24 @@ int main() {
 
         printf("%d\n", i);
     }
+/*
+Break Example:
+1
+2
+3
+4
 
+Continue Example:
+1
+2
+3
+4
+6
+7
+8
+9
+10
+
+*/
     return 0;
 }

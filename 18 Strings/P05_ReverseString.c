@@ -8,7 +8,7 @@ int main() {
     printf("Enter a string: ");
     fgets(str, sizeof(str), stdin);
 
-    len = strlen(str) - 1; // ignore newline
+    len = strlen(str) - 1; 
 
     printf("Reversed string: ");
     for(i = len - 1; i >= 0; i--) {

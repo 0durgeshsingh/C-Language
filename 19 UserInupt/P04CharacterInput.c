@@ -1,12 +1,17 @@
-#include <stdio.h>
+#include <stdio.h>   // For printf and scanf
 
 int main() {
-    char grade;
+
+    char grade;   // variable
 
     printf("Enter grade: ");
-    scanf(" %c", &grade);
 
-    printf("Grade = %c", grade);
+    scanf(" %c", &grade);  
+    // %c is used for character input
+    // &grade stores input in grade variable
 
-    return 0;
+    printf("Grade = %c", grade);  
+    // Prints the entered character
+
+    return 0;   // End of program
 }

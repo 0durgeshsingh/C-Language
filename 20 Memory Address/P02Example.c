@@ -20,3 +20,10 @@ int main() {
 
     return 0;
 }
+/*
+Output 
+Value of num = 25
+Address of num = 0x7ffd3a8b4c14
+Value stored in ptr (address) = 0x7ffd3a8b4c14
+Value pointed to by ptr = 25
+*/

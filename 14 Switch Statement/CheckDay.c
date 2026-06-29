@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Prints Days
+// Prints Days 
 
 int main() {
     int day;

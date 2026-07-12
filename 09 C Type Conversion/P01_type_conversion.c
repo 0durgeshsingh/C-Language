@@ -4,6 +4,6 @@ int main() {
   int y = 2;
   int sum = 5 / 2;
 
-  printf("%d", sum);
+  printf("%d", sum);  // Print Output 
   return 0;
 }

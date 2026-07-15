@@ -22,5 +22,5 @@ switch(expression) {
         break;
 
     default:
-        // code if no case matches
+        // code if no case matches. 
 }

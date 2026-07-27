@@ -32,5 +32,5 @@ int main() {
     // Print the final factorial value
     printf("Factorial = %ld", factorial);
 
-    return 0; // Program ends successfully
+    return 0; 
 }

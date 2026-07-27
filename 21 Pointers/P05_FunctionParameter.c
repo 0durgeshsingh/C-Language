@@ -13,5 +13,5 @@ int main() {
 
     cout << "Square = " << num;   // Print result
 
-    return 0;           // End program
+    return 0;    
 }
